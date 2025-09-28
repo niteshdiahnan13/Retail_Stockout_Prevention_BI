@@ -1,4 +1,4 @@
-# 📄 business_case.md — Inventory Forecasting & Risk Intelligence
+# 📄 business_case — Inventory Forecasting & Risk Intelligence
 
 ## 🧠 Executive Summary
 This solution addresses a critical challenge in retail operations: anticipating stockouts before they occur. By combining rolling sales averages, supplier lead times, and safety stock thresholds, the model forecasts inventory risk and enables proactive intervention. It empowers decision-makers with real-time visibility into SKU-level vulnerabilities, improving service levels, reducing lost sales, and optimizing replenishment cycles.
