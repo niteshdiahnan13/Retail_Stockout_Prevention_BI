@@ -1,0 +1,7 @@
+Supplier_ID,Supplier_Name,SKU,Avg_Lead_Time_Days,Delivery_Reliability
+SUP001,TechLogix,SKU001,5,0.92
+SUP002,ChargePro,SKU002,7,0.85
+SUP003,ErgoGear,SKU003,4,0.95
+SUP001,TechLogix,SKU001,6,0.89
+SUP002,ChargePro,SKU002,8,0.80
+SUP003,ErgoGear,SKU003,5,0.93

@@ -1,0 +1,11 @@
+Date,Store_ID,SKU,Product_Name,Inventory_Level,Reorder_Point,Safety_Stock
+2025-09-01,101,SKU001,Wireless Mouse,25,15,10
+2025-09-01,101,SKU002,USB-C Charger,12,10,5
+2025-09-01,102,SKU001,Wireless Mouse,18,15,10
+2025-09-02,101,SKU001,Wireless Mouse,20,15,10
+2025-09-02,102,SKU003,Laptop Stand,30,20,10
+2025-09-03,101,SKU002,USB-C Charger,6,10,5
+2025-09-03,102,SKU001,Wireless Mouse,12,15,10
+2025-09-04,101,SKU003,Laptop Stand,22,20,10
+2025-09-04,102,SKU002,USB-C Charger,5,10,5
+2025-09-05,101,SKU001,Wireless Mouse,8,15,10
